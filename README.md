@@ -8,7 +8,7 @@ Welcome to the AutoClicker repository! This tool is designed to automate mouse c
 - User-friendly and simple interface
 
 ## Description
-The AutoClicker is a simple yet powerful tool that automates mouse clicks. It's perfect for repetitive tasks like gaming, testing, or any scenario where frequent mouse clicking is required. You can set the click interval, choose the type of click, and start or stop the auto-clicker using hotkeys.
+The AutoClicker is a simple yet powerful tool that automates mouse clicks. It's perfect for repetitive tasks like gaming, testing, or any scenario where frequent mouse clicking is required. You can set the click interval and start or stop the auto-clicker using hotkeys.
 
 ## Screenshot
 
