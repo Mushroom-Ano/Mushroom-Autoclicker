@@ -1,0 +1,10 @@
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\anola\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
